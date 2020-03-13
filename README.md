@@ -1,4 +1,6 @@
 PROJE NE YAPAR?
+
+
 To-Do List tutmak isteyen kullanıcılar için geliştirilmiş bir uygulamadır. Kullanıcılar listeye proje ekleyip, silebilir. Tamamlandığında Projenin durumunu tamamlandı olarak değiştirebilirler.
 
 
