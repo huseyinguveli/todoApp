@@ -15,7 +15,7 @@ Projenin Front-end kısmını Vue.js, Back-end kısmını Java Sprıng Framework
 - vue/cli 4.2.3 
 - node.js 12.16.1
 
--MySQL
+- MySQL
 
 ## PROJEYİ ÇALIŞTIRMA KODLARI
 
